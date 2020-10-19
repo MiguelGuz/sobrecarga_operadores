@@ -7,7 +7,7 @@ computadora::computadora()
 computadora::computadora(const string &nombre,
                 const string &sistemaop,
                 const string &marca,
-                float memoriaRam)
+                float MemoriaRam)
 {
     this->nombre=nombre;
     this->sistemaop = sistemaop;
